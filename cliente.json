@@ -1,0 +1,22 @@
+{
+  "nome": "João Silva",
+  "idade": 31,
+  "ativo": true,
+  "endereco": {
+    "rua": "Rua das Flores",
+    "numero": 123,
+    "cidade": "Campinas",
+    "estado": "SP"
+  },
+  "telefones": {
+    "": [
+      "numero",
+      "(11) 99999-9999"
+    ],
+    "": [
+      "numero",
+      "(11) 3333-3333"
+    ]
+  },
+  "profissao": "Engenheiro"
+}
